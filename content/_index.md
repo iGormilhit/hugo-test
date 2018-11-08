@@ -1,5 +1,5 @@
 ---
-hero_image: "hero.jpg"
+hero_image: "centrale.jpg"
 
 ---
 
