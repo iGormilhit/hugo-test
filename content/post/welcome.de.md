@@ -1,7 +1,7 @@
 ---
 title: "Willkommen"
 date: 2018-11-21T12:17:24+01:00
-draft: true
+draft: false
 tags: ["Präsentation", "rero21"]
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Etat de développement de RERO-ILS"
 date: 2018-11-23T12:17:24+01:00
-<<<<<<< HEAD
-draft: true
+draft: false
 tags: ["rero-ils"]
 ---
 

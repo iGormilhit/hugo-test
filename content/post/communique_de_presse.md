@@ -1,7 +1,7 @@
 ---
 title: "Communiqué de presse CIIP"
 date: 2018-11-22T12:17:24+01:00
-draft: true
+draft: false
 tags: ["rero21"]
 ---
 
