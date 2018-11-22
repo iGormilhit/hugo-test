@@ -18,3 +18,7 @@ Il s'agit de pointer vers :
 - [RERO ILS](https://ils.test.rero.ch 'Le site démo de RERO ILS')
 - <i class="fab fa-github"></i> [`rero-ils`](https://github.com/rero/rero-ils 'Le projet rero-ils sur GitHub')
 - le [wiki](https://github.com/rero/rero-ils/wiki 'Le wiki de RERO ILS')
+
+## Second niveau
+
+**Bout de texte en Gras** et *en italique*.
