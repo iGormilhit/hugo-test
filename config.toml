@@ -34,10 +34,9 @@ paginatePath = "page"
     name = "Présentation"
     weight = 1
   [[languages.fr.menu.main]]
-    url = "/liens/"
+    url = "/links/"
     name = "Liens et informations utiles"
     weight = 2
-
 
 [languages.en]
   languageName = "English"

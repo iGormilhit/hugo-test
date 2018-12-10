@@ -2,25 +2,23 @@
 title: "Bienvenue"
 date: 2018-11-21T12:17:24+01:00
 draft: false 
-tags: ["présentation", "rero21"]
+tags: ["rero21"]
 ---
 
-Bienvenue sur le blog RERO21!
+Le [blog RERO 21](/) est enfin publié ! « Enfin », parce que si le projet a [officiellement démarré](/communique-de-presse) en septembre 2018, l'équipe de la centrale RERO y travaille depuis de nombreux mois, voire des années si l'on tient compte de la réflexion préalable et de la préparation du projet lui-même. Aussi, le désir de parler du projet nous a accompagné tout ce temps.
 
-L'équipe de la Centrale RERO à Martigny vous souhaite la bienvenue sur son blog dédié au projet RERO21 visant la transformation de la structure actuelle de RERO en un futur centre de compétences et de services aux bibliothèques à l'horizon 2021.
+<!--more-->
 
-Ce blog a été pensé comme une vitrine du projet et un moyen efficace pour établir une communication autour de celui-ci avec tous les partenaires intéressés, ceci en toute transparence.
-Vous trouverez ici rassemblées toutes les informations utiles à propos du projet (voir les pages "Présentations" et "Liens et informations utiles").
-Des billets seront régulierement postés afin de faire état de l'avancement du projet et des différentes thématiques qu'il touche dont le nouvel SIGB "RERO-ILS" en cours de développement
-à la Centrale RERO qui en représente certainement l'aspect principal, ainsi que sur le fichier d'entités multilingues (MEF), SONAR, et d'autres.
+La structure du blog va s'étoffer avec le temps. Pour le moment, en dehors des billets publiés au fil de l'eau, deux pages plus statiques sont disponibles :
 
-Le blog est naturellement amené à évoluer dans le temps en fonction des contours dessinés par le projet.
+1. La page de [*présentation*](/presentation) qui décrit synthétiquement le projet RERO 21 et ses différentes facettes.
+1. La page [*ressources*](/ressources) qui rassemble les liens utiles.
 
-N'hésitez pas à nous contacter au moyen des différents canaux proposés dans la rubrique "Contact".
-Cette même rubrique vous permet de vous abonner au fil RSS du blog pour être tenu au courant de toutes les actualités.
+Les billets sont regroupés au moyen d'<span class="badge badge-primary"><i class="fas fa-tag"></i> étiquettes</span>, déclinées dans la barre de droite. Pour le moment, les étiquettes principales sont les suivantes :
 
-Nous nous réjouissons de poursuivre ce projet passionnant et engageant, ainsi que de pouvoir profiter de vos contributions.
+1. <a href="/tags/rero21" class="badge badge-primary"><i class="fas fa-tag"></i> rero21</a>, concernant le projet lui-même.
+1. <a href="/tags/rero-ils" class="badge badge-primary"><i class="fas fa-tag"></i> rero-ils</a>, plus spécifique, centré sur le développement d'un système de gestion de bibliothèque par la centrale.
 
-Bonne lecture.
+L'[outil utilisé](https://gohugo.io "Le site officiel du logiciel HUGO") pour l'élaboration du blog, ne permet pas aisément aux lecteurs et lectrices d'interagir en commentant les billets. Pour autant, si vous voulez réagir à votre lecture, ou simplement échanger avec la centrale, vous pouvez utiliser les canaux indiqués dans la barre de droite.
 
-L'équipe de la Centrale RERO
+La centrale souhaite vous partager, par ce blog, le plaisir qu'elle a à vivre cette nouvelle aventure nommée RERO 21 !

@@ -1,9 +1,23 @@
 ---
-title: "Etat de développement de RERO-ILS"
+title: "RERO ILS : un bilan"
 date: 2018-11-23T12:17:24+01:00
 draft: false
 tags: ["rero-ils"]
 ---
+
+Le développement d'un système de gestion de bibliothèque est au centre du projet RERO 21. Jusqu'ici, ce développement s'est fait sour le nom RERO ILS, mais il n'est pas impossible que ce nom change à l'avenir. Ce développement ne part pas complètement de zéro puisqu'il se base sur le *framework* [Invenio](https://inveniosoftware.org "Site web d'Invenio"). Une première exploration a été présentée en novembre 2017, lors de la journée RERO.
+
+<!--more-->
+
+Depuis, le logiciel s'est 
+
+
+------------------------------
+
+Pour autant, la déclinaison <abbr title="Integrated Library Service">ILS</abbr>
+
+------------------------------
+
 
 Le développement de RERO-ILS, le futur système de gestion de bibliothèque de RERO prévu pour 2021, suit son cours à un rythme soutenu à la Centrale RERO.
 
@@ -49,4 +63,7 @@ l’adresse e-mail info@rero.ch.
 Enfin, une page d’aide en anglais est régulièrement mise à jour, dans le but d’expliquer
 l’utilisation de l’instance de démonstration: https://github.com/rero/reroils-app/wiki/Publicdemo-help.
 
-{{< figure src="/img/rero-ils-homepage2.PNG" title="Page d'accueil de RERO-ILS" >}}
+{{< figure src="/img/rero-ils-homepage2.PNG"
+		   alt="Capture d'écran de la page d'accueil de RERO ILS"
+           link="https://ils.test.rero.ch"
+		   caption="Page d'accueil de RERO ILS" >}}

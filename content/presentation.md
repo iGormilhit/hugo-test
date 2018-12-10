@@ -1,28 +1,27 @@
 ---
-title: "Projet RERO21"
+title: "Projet RERO 21"
 language: "fr"
+date: 2018-11-09
 ---
 
-Dans le contexte actuel de transformation du paysage des bibliothèques en Suisse, l'actuel RERO vise à devenir, d'ici 2021, un futur centre de compétences et de services aux bibliothèques.
-Ce projet, accepté par la CIIP qui est l'autorité de tutelle de RERO, évolue maintenant sous le nom "RERO21".   
-[Le communiqué de presse officiel de la CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf)
+Dans le contexte actuel de transformation du paysage des bibliothèques en Suisse, RERO se transforme d'ici 2021, en un centre de compétences et de services destinés aux bibliothèques. Ce projet a été [approuvé par l'autorité de tutelle de RERO, la CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Communiqué de la CIIP au format PDF") en septembre 2018.
 
-Vous trouverez sur ce blog des billets réguliers faisant état de l'avancement du projet et abordant différentes thématiques en lien, dont :
+Ce blog a pour objectif de publier des billets concernant RERO 21, regroupés sous [l'étiquette RERO 21](/tags/rero21 "Regroupement des billets concernant RERO 21"), ainsi que sur les différents sous projets qui le constituent : 
 
-- RERO-ILS   
-Le nouveau système de gestion de bibliothèque open source "RERO-ILS", qui est en cours de développement à la centrale RERO en collaboration avec le CERN, se base sur la plateforme technologique Invenio 3 et sera opérationnel dès la fin 2020. Il représente le point central du projet RERO21.
-Une [instance de test](https://ils.test.rero.ch) est disponible en permanence.
-L’ensemble du développement et ses avancées sont accessibles au public sur [Taiga](https://tree.taiga.io/project/rero21-reroils)
+- [RERO ILS](/tags/rero-ils "Regroupement des billets concernant RERO ILS").
+- [MEF](/tags/mef "Regroupement des billets concernant le MEF").
+- SONAR (qui fait l'objet d'un [site dédié](https://sonar.ch "Site web de SONAR")).
 
-- MEF : fichier d'autorités multilingues   
-Dans le cadre du développement du nouvel ILS de RERO, la gestion d’autorités multilingues s’est avérée être un besoin.
-RERO travaille sur une solution locale adaptée au contexte suisse qui pourrait profiter aussi à d’autres partenaires dans le pays avec le même type de besoins.
-Procédant par des alignements effectués grâce aux identifiants VIAF, ce concept novateur permet que chacun puisse utiliser les données dans la langue souhaitée.
-[Plus d'infos](https://mef.test.rero.ch/)
+### RERO ILS
 
-- RDA   
-Le nouveau code de catalogage RDA est le nouveau standard international orienté sur le web de données. RERO s'oriente naturellement vers ce nouveau code, son implémentation dans le catalogue étant en cours.
+La centrale RERO développe depuis la fin de l'année 2017 un système de gestion de bibliothèque libre, qui sera disponible sous la forme d'un service web hébergé à Martigny. D'un point de vue technique, RERO ILS se fonde sur le *framework* [Invenio](https://invenio-software.org) et sur l'expérience acquise par la centrale.
 
-- SONAR : Swiss Open Access Repository   
-Le projet SONAR fait partie du programme P-5 de swissuniversities.
-Il propose la mise en place d'un dépôt national en open access dont le but est de collecter, promouvoir et d'assurer la préservation des publications scientifiques des auteurs affiliés aux institutions de recherche publiques en Suisse. Ce dépôt centralisé fonctionne comme un agrégateur, puisant le contenu et les métadonnées des plateformes existantes et des dépôts institutionnels (IR). Parallèlement, le dépôt direct de contenus par les auteurs, ou leurs représentants, est également possible.
+Ce projet, au centre de RERO 21, se veut un système ouvert à la fois à des bibliothèques et à des réseaux de bibliothèques. Il sera opérationnel à la fin de l'année 2020. Dès aujourd'hui, une installation de démonstration est publiquement accessible à l'adresse suivante : [ils.test.rero.ch](http://ils.test.rero.ch "Site de démonstration de RERO ILS").
+
+### MEF : *Multilingual Entity Files*
+
+RERO 21 proposera ses services sur l'ensemble du territoire helvétique, aussi RERO ILS doit impérativement être multilingue. Du point de vue des autorités, le problème n'est pas trivial. RERO explore la faisabilité d'un fichier d'autorité multilingue constitué par l'alignement, au moyen de [VIAF](https://viaf.org "Site web du Virtual International Authority File") de différents fichiers d'autorité nationaux. RERO pense que le MEF peut être utile et a décidé de développer ce service de manière ouverte et de le mettre à disposition, pour l'instant en version test, à l'adresse [mef.test.rero.ch](https://mef.test.rero.ch "Le service MEF, accessible librement").
+
+### SONAR : *Swiss Open Access Repository*
+
+Le projet SONAR fait partie du programme [P-5](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/) de [*swissuniversities*](https://www.swissuniversities.ch/ "Site web de *swissuniversities*"). Il s'agit du développement d'une archive institutionnelle nationale, dont le but est de collecter, de promouvoir et d'assurer la préservation des publications scientifiques *open access* des auteurs affiliés aux institutions de recherche publiques en Suisse. SONAR a également pour but d'offrir un service d'archive institutionnelle ("IR as a Service*").

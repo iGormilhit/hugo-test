@@ -1,6 +1,7 @@
 ---
 title: "RERO21 project"
 language: "en"
+date: 2018-11-09
 ---
 
 Dans le contexte actuel de transformation du paysage des bibliothèques en Suisse, l'actuel RERO vise à devenir, d'ici 2021, un futur centre de compétences et de services aux bibliothèques.
