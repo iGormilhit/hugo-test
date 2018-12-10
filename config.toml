@@ -5,6 +5,7 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 theme = "my-hugo-bootstrap"
 enableGitInfo = true
+preserveTaxonomyNames = true
 
 # Title of your site
 title = "Test du blog RERO21"
@@ -16,6 +17,7 @@ paginatePath = "page"
 [taxonomies]
   tag = "tags"
   category = "categories"
+
 
 # Google analytics
 # googleAnalytics = "UA-47268287-3"
