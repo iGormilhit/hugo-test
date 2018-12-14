@@ -19,6 +19,10 @@ The blog will naturally evolve over time according to the outlines drawn by the 
 Feel free to contact us through the different channels available in the "Contact" section.
 This same section allows you to subscribe to the blog's RSS feed to be kept informed of all the latest news.
 
+<div class="p-2 rero21-iframe">
+<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/2" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Votre adresse e-mail ne sera utilisée que pour la <em>newsletter</em> RERO 21. Au fond de chaque e-mail se trouve un lien pour se désinscrire. Cette <em>newsletter</em> est gérée par le service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Les outils de <em>tracking</em> ne sont pas activés.</small></p>
+</div>
+
 We look forward to continuing this exciting and engaging project and to benefiting from your contributions.
 
 Enjoy your reading.

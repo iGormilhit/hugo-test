@@ -23,3 +23,9 @@ Folgen Sie uns
 Kontaktieren Sie uns   
 [Email](mailto:info@rero.ch)   
 Kontaktieren Sie das RERO-ILS Entwicklungsteam unter [Gitter](https://gitter.im/rero/reroils)
+
+<div class="p-2 rero21-iframe">
+<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/4" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Votre adresse e-mail ne sera utilisée que pour la <em>newsletter</em> RERO 21. Au fond de chaque e-mail se trouve un lien pour se désinscrire. Cette <em>newsletter</em> est gérée par le service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Les outils de <em>tracking</em> ne sont pas activés.</small></p>
+</div>
+
+

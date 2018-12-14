@@ -21,4 +21,10 @@ Les billets sont regroupés au moyen d'<span class="badge badge-primary"><i clas
 
 L'[outil utilisé](https://gohugo.io "Le site officiel du logiciel HUGO") pour l'élaboration du blog, ne permet pas aisément aux lecteurs et lectrices d'interagir en commentant les billets. Pour autant, si vous voulez réagir à votre lecture, ou simplement échanger avec la centrale, vous pouvez utiliser les canaux indiqués dans la barre de droite.
 
+Bien que ce site offre un [flux RSS](/index.xml), qui peut être même être décliné selon chaque étiquettes, vous pouvez également vous inscrire à la *newsletter* RERO 21 au moyen du formulaire suivant :
+
+<div class="p-2 rero21-iframe">
+<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/3" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Votre adresse e-mail ne sera utilisée que pour la <em>newsletter</em> RERO 21. Au fond de chaque e-mail se trouve un lien pour se désinscrire. Cette <em>newsletter</em> est gérée par le service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Les outils de <em>tracking</em> ne sont pas activés.</small></p>
+</div>
+
 La centrale souhaite vous partager, par ce blog, le plaisir qu'elle a à vivre cette nouvelle aventure nommée RERO 21 !
