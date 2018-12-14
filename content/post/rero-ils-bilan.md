@@ -1,7 +1,7 @@
 ---
 title: "RERO ILS : un bilan"
 date: 2018-11-23T12:17:24+01:00
-draft: false
+draft: true 
 tags: ["rero-ils"]
 ---
 
